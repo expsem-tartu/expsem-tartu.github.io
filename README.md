@@ -24,7 +24,7 @@ For all the papers - consult the [reading checklist](https://www.is.ut.ee/pls/oi
 |Misunderstandings    | Galantucci & Roberts 2014 (5 pp) <br> Roberts, Langstein & Galantucci 2015 (8 pp) <br> Mills & Redeker 2016 (3 pp)|   |
 | The influence of what we talk about on sign systems  |   Schouwstra & de Swart 2014 (6 pp) <br> Christensen et al. 2015 (14 pp) |   |
 
-
+Vote on the topics here: [Poll link](http://www.easypolls.net/poll.html?p=59ee36efe4b036a938d50c1a)
 <script type="text/javascript" src="http://www.easypolls.net/ext/scripts/emPoll.js?p=59ee36efe4b036a938d50c1a"></script><a class="OPP-powered-by" href="http://www.objectplanet.com/opinio/" style="text-decoration:none;"><div style="font: 9px arial; color: gray;">survey solutions</div></a>
 
 ### Markdown
