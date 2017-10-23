@@ -33,6 +33,6 @@ For all the papers - consult the [reading checklist](https://www.is.ut.ee/pls/oi
 |j) Systematicity  |   [Selten & Warglien 2007 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697561&pn_id_sessioon=41529130853603699982) <br> [Theisen, Oberlander, Kirby 2010 (19 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697562&pn_id_sessioon=41529130853603699982)|   |
 
 
-Vote on the topics here: [Poll link](http://www.easypolls.net/poll.html?p=59ee36efe4b036a938d50c1a)
+Vote on the topics here: [Poll link](http://www.easypolls.net/poll.html?p=59ee59b2e4b036a938d50c62)
 
-<script type="text/javascript" src="http://www.easypolls.net/ext/scripts/emPoll.js?p=59ee36efe4b036a938d50c1a"></script>
+<script type="text/javascript" src="http://www.easypolls.net/ext/scripts/emPoll.js?p=59ee59b2e4b036a938d50c62"></script>
