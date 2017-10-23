@@ -4,20 +4,20 @@ Here the materials and guide for the experimental semiotics course will be poste
 
 For all the papers - consult the [reading checklist](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=694240&pn_id_sessioon=41555863010343699949)
 
-| Session      | Reading           | Extra reading  |
-| ------------- |-------------| -----:|
-| What is experimental semiotics and what is it for?      |  |  |
-| Basics of experimental methods.| - [APA Style notes](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=685629&pn_id_sessioon=41555863010343699949) <br /> - [Sani & Todman intro](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=685630&pn_id_sessioon=41555863010343699949) | [Reading advice 1](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=687616&pn_id_sessioon=41555863010343699949) <br> [Reading advice 2](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=687615&pn_id_sessioon=41555863010343699949) |
-| An overview of experimental semiotics | [Galantucci, Garrod, Roberts 2012 (16 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=687614&pn_id_sessioon=41529130853603699982)| [Scott-Phillips & Kirby 2010](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=689356&pn_id_sessioon=41529130853603699982) |
-|Basic conceptual building blocks   |   |   |
-|Common ground in conversation   |- [Wilkes-Gibbs & Clark 1992 (12 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=691432&pn_id_sessioon=41529130853603699982) <br>   - [Clark 2006 (4 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=691431&pn_id_sessioon=41529130853603699982)| -   |
-|From icons to symbols   |  [Garrod et al. 2007 longer](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=693171&pn_id_sessioon=41529130853603699982)  |  [Theisen et al. 2010](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=693172&pn_id_sessioon=41529130853603699982) |
-|Artificial language learning experiments   |  	[Kirby, Cornish, Smith 2008 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=694616&pn_id_sessioon=41529130853603699982) <br> [Verhoef, Kirby, Padden 2011 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=694617&pn_id_sessioon=41529130853603699982)  | Tamariz 2017, 20 pp  |
-| Overview session   |  [Enfield 2003 introduction](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=696219&pn_id_sessioon=41529130853603699982)  |   |
+|Time| Session      | Reading           | Extra reading  |
+|-----|-------|---------------|-----:|
+|05.09.2017| What is experimental semiotics <br>and what is it for?      |  |  |
+|12.09.2017| Basics of experimental methods.| - [APA Style notes](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=685629&pn_id_sessioon=41555863010343699949) <br /> - [Sani & Todman intro](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=685630&pn_id_sessioon=41555863010343699949) | [Reading advice 1](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=687616&pn_id_sessioon=41555863010343699949) <br> [Reading advice 2](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=687615&pn_id_sessioon=41555863010343699949) |
+|26.09.2017| An overview of experimental semiotics | [Galantucci, Garrod, Roberts 2012 (16 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=687614&pn_id_sessioon=41529130853603699982)| [Scott-Phillips & Kirby 2010](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=689356&pn_id_sessioon=41529130853603699982) |
+||**Basic conceptual building blocks**|
+|03.10.2017|Common ground in conversation   |- [Wilkes-Gibbs & Clark 1992 (12 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=691432&pn_id_sessioon=41529130853603699982) <br>   - [Clark 2006 (4 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=691431&pn_id_sessioon=41529130853603699982)| -   |
+|10.10.2017|From icons to symbols   |  [Garrod et al. 2007 longer](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=693171&pn_id_sessioon=41529130853603699982)  |  [Theisen et al. 2010](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=693172&pn_id_sessioon=41529130853603699982) |
+|17.10.2017|Artificial language learning experiments   |  	[Kirby, Cornish, Smith 2008 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=694616&pn_id_sessioon=41529130853603699982) <br> [Verhoef, Kirby, Padden 2011 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=694617&pn_id_sessioon=41529130853603699982)  | Tamariz 2017, 20 pp  |
+|24.10.2017| **Overview session**   |  [Enfield 2003 introduction](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=696219&pn_id_sessioon=41529130853603699982)  |   |
 
-|Upcoming| | |
-| ------------- |-------------| -----:|
-|Optimization and effort in sign systems   |  Zipf	Kanwal et al. 2017 (8 pp) <br> Roberts & Stevens 2016 (6 pp)  |   |
+|Date|Upcoming| | |
+|----|------------- |-------------|-----:|
+|31.10.2017|Optimization and effort in sign systems   |  Zipf	Kanwal et al. 2017 (8 pp) <br> Roberts & Stevens 2016 (6 pp)  |   |
 
 |Choices for next steps  |   |   |
 | ------------- |-------------| -----:|
@@ -33,22 +33,5 @@ For all the papers - consult the [reading checklist](https://www.is.ut.ee/pls/oi
 |i) Social learning  |   Schouwstra & de Swart 2014 (6 pp) <br> Christensen et al. 2015 (14 pp) |   |
 
 Vote on the topics here: [Poll link](http://www.easypolls.net/poll.html?p=59ee36efe4b036a938d50c1a)
-<script type="text/javascript" src="http://www.easypolls.net/ext/scripts/emPoll.js?p=59ee36efe4b036a938d50c1a"></script><a class="OPP-powered-by" href="http://www.objectplanet.com/opinio/" style="text-decoration:none;"><div style="font: 9px arial; color: gray;">survey solutions</div></a>
 
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/expsem-tartu/expsem-tartu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/expsem-tartu/expsem-tartu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<script type="text/javascript" src="http://www.easypolls.net/ext/scripts/emPoll.js?p=59ee36efe4b036a938d50c1a"></script>
