@@ -15,11 +15,11 @@ For all the papers - consult the [reading checklist](https://www.is.ut.ee/pls/oi
 |17.10.2017|Artificial language learning experiments   |  	[Kirby, Cornish, Smith 2008 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=694616&pn_id_sessioon=41529130853603699982) <br> [Verhoef, Kirby, Padden 2011 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=694617&pn_id_sessioon=41529130853603699982)  | [Kirby, Griffiths, Smith 2014 (14 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697565&pn_id_sessioon=41529130853603699982)  |
 |24.10.2017| **Overview session**   |  [Enfield 2003 introduction](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=696219&pn_id_sessioon=41529130853603699982)  |   |
 
-|Date|Upcoming| | |
+|Date|Upcoming|Reading |Extra |
 |----|------------- |-------------|-----:|
 |31.10.2017|Optimization and effort in sign systems   |  [Kanwal et al. 2017 (8 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697550&pn_id_sessioon=41529130853603699982) <br> [Roberts & Stevens 2016 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697551&pn_id_sessioon=41529130853603699982)  | -  |
 
-|Choices for next steps  |   |   |
+|Choices for next steps  |Reading   |Extra   |
 | ------------- |-------------| -----:|
 |a) Galantucci's classic studies   | [Galantucci 2009 (13 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697534&pn_id_sessioon=41529130853603699982) <br>	[Galantucci, Kroos, Rhodes 2010 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697533&pn_id_sessioon=41529130853603699982)  |   |
 |b) Cumulative culture and cultural complexity  | [Caldwell & Millen 2008 (7 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697537&pn_id_sessioon=41529130853603699982) <br> [Caldwell & Eve 2014](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697536&pn_id_sessioon=41529130853603699982) <br>	[Caldwell, Atkinson, Renner 2016 (9 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697535&pn_id_sessioon=41529130853603699982)  |   |
@@ -31,6 +31,8 @@ For all the papers - consult the [reading checklist](https://www.is.ut.ee/pls/oi
 |h) Modalities and dimensions  |  [Little et al. 2016 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697538&pn_id_sessioon=41529130853603699982) <br> [Little et al. 2017 (15 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697540&pn_id_sessioon=41529130853603699982) <br> [Verhoef, Roberts, Dingemanse 2016 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697541&pn_id_sessioon=41529130853603699982) |   |
 |i) Signalling signalhood  |   [Scott-Phillips et al. 2009 (8 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697558&pn_id_sessioon=41529130853603699982) <br> [Scott-Phillips 2015 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697556&pn_id_sessioon=41529130853603699982) <br> [Scott-Phillips 2016 (3 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697557&pn_id_sessioon=41529130853603699982)|   |
 |j) Systematicity  |   [Selten & Warglien 2007 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697561&pn_id_sessioon=41529130853603699982) <br> [Theisen, Oberlander, Kirby 2010 (19 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697562&pn_id_sessioon=41529130853603699982)|   |
+
+
 Vote on the topics here: [Poll link](http://www.easypolls.net/poll.html?p=59ee36efe4b036a938d50c1a)
 
 <script type="text/javascript" src="http://www.easypolls.net/ext/scripts/emPoll.js?p=59ee36efe4b036a938d50c1a"></script>
