@@ -8,12 +8,12 @@ For all the papers - consult the [reading checklist](https://www.is.ut.ee/pls/oi
 |-----|-------|---------------|-----:|
 |05.09.2017| What is experimental semiotics and what is it for?      |  |  |
 |12.09.2017| Basics of experimental methods.| [Sani & Todman intro](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=685630&pn_id_sessioon=41555863010343699949) <br> [APA Style notes](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=685629&pn_id_sessioon=41555863010343699949) | [Reading advice 1](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=687616&pn_id_sessioon=41555863010343699949) <br> [Reading advice 2](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=687615&pn_id_sessioon=41555863010343699949) |
-|26.09.2017| An overview of experimental semiotics | [Galantucci, Garrod, Roberts 2012 (16 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=687614&pn_id_sessioon=41529130853603699982)| [Scott-Phillips & Kirby 2010](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=689356&pn_id_sessioon=41529130853603699982) |
+|26.09.2017| An overview of experimental semiotics | [Galantucci, Garrod, Roberts 2012 (16 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=687614&pn_id_sessioon=41529130853603699982)| [Scott-Phillips & Kirby 2010 (7 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=689356&pn_id_sessioon=41529130853603699982) |
 ||**Basic conceptual building blocks**|
 |03.10.2017|Common ground in conversation   | [Wilkes-Gibbs & Clark 1992 (12 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=691432&pn_id_sessioon=41529130853603699982) <br>  [Clark 2006 (4 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=691431&pn_id_sessioon=41529130853603699982)|    |
-|10.10.2017|From icons to symbols   |  [Garrod et al. 2007](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=693171&pn_id_sessioon=41529130853603699982)  |  [Theisen et al. 2010](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697562&pn_id_sessioon=41529130853603699982) |
+|10.10.2017|From icons to symbols   |  [Garrod et al. 2007 (22 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=693171&pn_id_sessioon=41529130853603699982)  |  [Theisen et al. 2010 (16 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697562&pn_id_sessioon=41529130853603699982) |
 |17.10.2017|Artificial language learning experiments   |  	[Kirby, Cornish, Smith 2008 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=694616&pn_id_sessioon=41529130853603699982) <br> [Verhoef, Kirby, Padden 2011 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697539&pn_id_sessioon=41529130853603699982)  | [Kirby, Griffiths, Smith 2014 (14 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697565&pn_id_sessioon=41529130853603699982)  |
-|24.10.2017| **Overview session**   |  [Enfield 2003 intro 19 pp](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=696219&pn_id_sessioon=41529130853603699982)  |   |
+|24.10.2017| **Overview session**   |  [Enfield 2003 (19 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=696219&pn_id_sessioon=41529130853603699982)  |   |
 
 |Date|Upcoming|Reading |Extra |
 |----|------------- |-------------|-----:|
@@ -37,5 +37,6 @@ Vote on the topics here: [Poll link](http://www.easypolls.net/poll.html?p=59ee59
 
 <script type="text/javascript" src="http://www.easypolls.net/ext/scripts/emPoll.js?p=59ee59b2e4b036a938d50c62"></script>
 
+### References
 
 {% include_relative expsem_biblo.html %}
