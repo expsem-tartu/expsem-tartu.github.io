@@ -38,4 +38,4 @@ Vote on the topics here: [Poll link](http://www.easypolls.net/poll.html?p=59ee59
 <script type="text/javascript" src="http://www.easypolls.net/ext/scripts/emPoll.js?p=59ee59b2e4b036a938d50c62"></script>
 
 
-{% include expsem_biblo.html %}
+{% include_relative expsem_biblo.html %}
