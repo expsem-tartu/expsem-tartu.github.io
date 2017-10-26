@@ -39,4 +39,4 @@ Vote on the topics here: [Poll link](http://www.easypolls.net/poll.html?p=59ee59
 
 ### References
 
-{% include_relative expsem_biblo.html %}
+{% include expsem_biblo.html %}
