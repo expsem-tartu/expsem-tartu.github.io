@@ -15,17 +15,18 @@ For all the papers - consult the [reading checklist](https://www.is.ut.ee/pls/oi
 |17.10.2017|Artificial language learning experiments   |  	[Kirby, Cornish, Smith 2008 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=694616&pn_id_sessioon=41529130853603699982) <br> [Verhoef, Kirby, Padden 2011 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697539&pn_id_sessioon=41529130853603699982)  | [Kirby, Griffiths, Smith 2014 (14 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697565&pn_id_sessioon=41529130853603699982)  |
 |24.10.2017| **Overview session**   |  [Enfield 2003 (19 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=696219&pn_id_sessioon=41529130853603699982)  |   |
 |31.10.2017|Optimization and effort in sign systems   |  [Kanwal et al. 2017 (8 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697550&pn_id_sessioon=41529130853603699982) <br> [Roberts & Stevens 2016 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697551&pn_id_sessioon=41529130853603699982)  |   |
-
-
-|Date|Upcoming|Reading |Extra |
-|----|------------- |-------------|-----:|
 |07.11.2017| Animal culture | [Tennie et al. 2009 (12 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697532&pn_id_sessioon=41529130853603699982) <br> [Cladiere et al. 2014 (8 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697531&pn_id_sessioon=41529130853603699982)  |   |
+|14.11.2017| Misunderstandings    | Either: <br> [Galantucci & Roberts 2014 (5 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697547&pn_id_sessioon=41529130853603699982) <br> [Roberts, Langstein & Galantucci 2015 (8 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697549&pn_id_sessioon=41529130853603699982) <br> Or: <br> [Mills & Healey 2006 (8 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=700933&pn_id_sessioon=41312439764493716358) <br> [Mills & Redeker 2016 (3 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697548&pn_id_sessioon=41529130853603699982)| [Bjørndahl et al. 2015 (26 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=699347&pn_id_sessioon=56926074106013708471) |
+|21.11.2017| Semantics and language structure  |   [Christensen et al. 2015 (14 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697554&pn_id_sessioon=41529130853603699982) |  [Schouwstra & de Swart 2014 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697555&pn_id_sessioon=41529130853603699982) |
+
+
+
+
 
 
 |Winners of the vote  |Reading   |Extra   |
 | ------------- |-------------| -----:|
-| Misunderstandings    | [Galantucci & Roberts 2014 (5 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697547&pn_id_sessioon=41529130853603699982) <br> [Roberts, Langstein & Galantucci 2015 (8 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697549&pn_id_sessioon=41529130853603699982) <br> [Mills & Redeker 2016 (3 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697548&pn_id_sessioon=41529130853603699982)| [Bjørndahl et al. 2015 (26 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=699347&pn_id_sessioon=56926074106013708471) |
-| Semantic origins of word order  |   [Schouwstra & de Swart 2014 (6 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697555&pn_id_sessioon=41529130853603699982) <br> [Christensen et al. 2015 (14 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697554&pn_id_sessioon=41529130853603699982) |   |
+
 | Cumulative culture and cultural complexity  | [Caldwell & Millen 2008 (7 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697537&pn_id_sessioon=41529130853603699982) <br> [Caldwell & Eve 2014](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697536&pn_id_sessioon=41529130853603699982) <br>	[Caldwell, Atkinson, Renner 2016 (9 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697535&pn_id_sessioon=41529130853603699982)  |   |
 | Iconicity in the sign systems   | [Cuskley, Simner, Kirby 2016 (12 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697544&pn_id_sessioon=41529130853603699982)  |  [Tamariz et al. 2017 (16 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697546&pn_id_sessioon=41529130853603699982) <br>	[Roberts, Lewandowski, Galantucci 2015 (15 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697545&pn_id_sessioon=41529130853603699982) |
 
