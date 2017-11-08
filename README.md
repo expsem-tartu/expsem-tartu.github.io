@@ -26,7 +26,6 @@ For all the papers - consult the [reading checklist](https://www.is.ut.ee/pls/oi
 
 |Winners of the vote  |Reading   |Extra   |
 | ------------- |-------------| -----:|
-
 | Cumulative culture and cultural complexity  | [Caldwell & Millen 2008 (7 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697537&pn_id_sessioon=41529130853603699982) <br> [Caldwell & Eve 2014](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697536&pn_id_sessioon=41529130853603699982) <br>	[Caldwell, Atkinson, Renner 2016 (9 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697535&pn_id_sessioon=41529130853603699982)  |   |
 | Iconicity in the sign systems   | [Cuskley, Simner, Kirby 2016 (12 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697544&pn_id_sessioon=41529130853603699982)  |  [Tamariz et al. 2017 (16 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697546&pn_id_sessioon=41529130853603699982) <br>	[Roberts, Lewandowski, Galantucci 2015 (15 pp)](https://www.is.ut.ee/pls/ois_sso/tere.tulemast?pn_id_materjal=697545&pn_id_sessioon=41529130853603699982) |
 
